@@ -1,5 +1,7 @@
 # Lab: Event Listeners in JavaScript
 
+## Allison Valdez
+
 ## Introduction
 
 As a new developer at a tech company, you are tasked with creating a dynamic user interface for a simple web application. You’ll add interactive features using event listeners to respond to user actions like clicking buttons and pressing keys. This is a common task in modern web development, where creating responsive and engaging interfaces is crucial.
